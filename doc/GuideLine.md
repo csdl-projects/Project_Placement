@@ -212,6 +212,13 @@ For example,
 ./qPlacer simple01.def
 ```
 
+If you want GUI version by CIMAGE,
+
+```shell
+cd output
+mkdir images
+````
+
 ### 2. Your Own Placement
 
 In this part, you have to implement your own placement.
